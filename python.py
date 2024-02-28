@@ -1,0 +1,6 @@
+print("Hello, World!")
+type(1)
+type(4.5)
+type(0,0)
+type("Hello World")
+type([1,2,3])
